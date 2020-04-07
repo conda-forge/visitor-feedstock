@@ -117,4 +117,5 @@ Feedstock Maintainers
 =====================
 
 * [@pmlandwehr](https://github.com/pmlandwehr/)
+* [@tschoonj](https://github.com/tschoonj/)
 
